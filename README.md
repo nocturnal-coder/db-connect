@@ -1,0 +1,2 @@
+# db-connect
+In spite of the rise of the NoSQL databases, RDMSes still play a major role in data analysis mainly because what could be easily analyzed is numerical data. This project aims at developing a set of  comprehensive libraries, each of which is consisting of a set of functions that allows connecting to all major RDMSes such as MySQL, Oracle, MS SQL Server, etc. for almost all the programming languages that play a significant role in data analysis such as python, Scala, C, C++, Java, R, etc. 
